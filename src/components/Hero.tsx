@@ -7,10 +7,10 @@ const Hero = () => {
     <section className="relative h-screen flex items-center overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
-        <div 
+        <div
           className="w-full h-full bg-cover bg-center"
-          style={{ 
-            backgroundImage: "url('https://images.unsplash.com/photo-1575320181282-9afab399332c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80')",
+          style={{
+            backgroundImage: "url('https://upload.wikimedia.org/wikipedia/commons/b/b6/Executive_Mansion_Apr_09.JPG')",
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-r from-politician-blue/80 via-politician-blue/70 to-politician-blue/20"></div>
@@ -27,10 +27,10 @@ const Hero = () => {
             Leadership that <span className="text-politician-teal">Works</span> for Everyone
           </h1>
           <p className="text-white/90 text-lg md:text-xl mb-8 max-w-2xl">
-            Building a brighter future with innovative solutions, sustainable development, and 
+            Building a brighter future with innovative solutions, sustainable development, and
             community-focused policies that put people first.
           </p>
-          
+
           <div className="flex flex-col sm:flex-row gap-4">
             <Link to="/get-involved" className="btn-secondary flex items-center justify-center gap-2 animate-fade-in animate-delay-100">
               Get Involved

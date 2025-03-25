@@ -14,7 +14,7 @@ const Footer = () => {
             {/* About Column */}
             <div className="animate-fade-in">
               <h3 className="text-xl font-bold mb-6 relative inline-block">
-                James Wilson
+                Telee Brown
                 <span className="absolute left-0 bottom-0 w-1/2 h-0.5 bg-politician-teal"></span>
               </h3>
               <p className="text-white/70 mb-6">
@@ -75,34 +75,12 @@ const Footer = () => {
                 </li>
                 <li className="flex items-center">
                   <Mail className="h-5 w-5 text-politician-teal mr-3 flex-shrink-0" />
-                  <span className="text-white/70">info@jameswilson.example</span>
+                  <span className="text-white/70">telebrown1@gmail.com</span>
                 </li>
               </ul>
             </div>
 
-            {/* Newsletter */}
-            <div className="animate-fade-in animate-delay-300">
-              <h3 className="text-xl font-bold mb-6 relative inline-block">
-                Stay Updated
-                <span className="absolute left-0 bottom-0 w-1/2 h-0.5 bg-politician-teal"></span>
-              </h3>
-              <p className="text-white/70 mb-4">
-                Subscribe to our newsletter for campaign updates, events, and news.
-              </p>
-              <form className="space-y-3">
-                <input
-                  type="email"
-                  placeholder="Your email address"
-                  className="w-full px-4 py-2 rounded-md bg-white/10 border border-white/20 text-white placeholder:text-white/50 focus:outline-none focus:ring-2 focus:ring-politician-teal"
-                />
-                <button 
-                  type="submit" 
-                  className="w-full bg-politician-teal hover:bg-politician-teal/90 text-white font-medium py-2 rounded-md transition-colors duration-300"
-                >
-                  Subscribe
-                </button>
-              </form>
-            </div>
+           
           </div>
         </div>
       </div>
@@ -112,7 +90,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 md:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-white/50 text-sm mb-4 md:mb-0">
-              © {currentYear} James Wilson Campaign. All rights reserved.
+              © {currentYear} Telee Brown Campaign. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-white/50 hover:text-white text-sm transition-colors duration-300">

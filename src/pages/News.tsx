@@ -127,7 +127,7 @@ const News = () => {
       title: "Community Town Hall Discusses Urban Development Plans",
       date: "June 15, 2023",
       category: "Community",
-      excerpt: "James Wilson hosted a productive town hall meeting with residents to discuss upcoming urban development initiatives and address community concerns."
+      excerpt: "Telee Brown hosted a productive town hall meeting with residents to discuss upcoming urban development initiatives and address community concerns."
     },
     {
       image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
@@ -141,7 +141,7 @@ const News = () => {
       title: "Wilson Secures Endorsement from Environmental Groups",
       date: "May 30, 2023",
       category: "Press Release",
-      excerpt: "Leading environmental organizations have endorsed James Wilson's campaign, citing his strong commitment to sustainable policies and conservation efforts."
+      excerpt: "Leading environmental organizations have endorsed Telee Brown's campaign, citing his strong commitment to sustainable policies and conservation efforts."
     },
     {
       image: "https://images.unsplash.com/photo-1530266226757-92b091caf989?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
@@ -155,7 +155,7 @@ const News = () => {
       title: "Wilson Proposes Comprehensive Infrastructure Plan",
       date: "May 15, 2023",
       category: "Policy",
-      excerpt: "James Wilson unveiled a detailed infrastructure improvement plan focusing on road repairs, public transportation expansion, and broadband access."
+      excerpt: "Telee Brown unveiled a detailed infrastructure improvement plan focusing on road repairs, public transportation expansion, and broadband access."
     },
     {
       image: "https://images.unsplash.com/photo-1525684863300-cdac0ea74a98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",

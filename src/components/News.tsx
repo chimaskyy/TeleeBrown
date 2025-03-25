@@ -36,7 +36,7 @@ const News = () => {
       image: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80",
       title: "Community Town Hall Discusses Urban Development Plans",
       date: "June 15, 2023",
-      excerpt: "James Wilson hosted a productive town hall meeting with residents to discuss upcoming urban development initiatives and address community concerns."
+      excerpt: "Telee Brown hosted a productive town hall meeting with residents to discuss upcoming urban development initiatives and address community concerns."
     },
     {
       image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
@@ -48,7 +48,7 @@ const News = () => {
       image: "https://images.unsplash.com/photo-1464746133101-a2c3f88e0dd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80",
       title: "Wilson Secures Endorsement from Environmental Groups",
       date: "May 30, 2023",
-      excerpt: "Leading environmental organizations have endorsed James Wilson's campaign, citing his strong commitment to sustainable policies and conservation efforts."
+      excerpt: "Leading environmental organizations have endorsed Telee Brown's campaign, citing his strong commitment to sustainable policies and conservation efforts."
     }
   ];
 

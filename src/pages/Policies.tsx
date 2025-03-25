@@ -231,7 +231,7 @@ const Policies = () => {
                 </span>
                 <h2 className="text-3xl md:text-4xl font-bold mb-6 text-politician-blue">A Vision for Progress</h2>
                 <p className="text-politician-blue/80 mb-6">
-                  James Wilson's policy platform is built on the principles of inclusivity, sustainability, and practical innovation. Every policy is developed with input from community members and experts to ensure they address real needs and create meaningful impact.
+                  Telee Brown's policy platform is built on the principles of inclusivity, sustainability, and practical innovation. Every policy is developed with input from community members and experts to ensure they address real needs and create meaningful impact.
                 </p>
                 <p className="text-politician-blue/80 mb-6">
                   We believe in transparent governance and data-driven decision making. Our policies aim to create immediate improvements while laying the groundwork for long-term prosperity and well-being for all residents.
@@ -361,7 +361,7 @@ const Policies = () => {
               </div>
               <div className="p-4">
                 <h3 className="text-xl font-bold text-politician-blue mb-2">Policy Overview Video</h3>
-                <p className="text-politician-blue/70">Watch James Wilson explain the key elements of his policy platform and vision for the future.</p>
+                <p className="text-politician-blue/70">Watch Telee Brown explain the key elements of his policy platform and vision for the future.</p>
               </div>
             </div>
           </div>

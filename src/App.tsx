@@ -9,7 +9,7 @@ import About from "./pages/About";
 import Policies from "./pages/Policies";
 import News from "./pages/News";
 import Events from "./pages/Events";
-import GetInvolved from "./pages/GetInvolved";
+// import GetInvolved from "./pages/GetInvolved";
 import Donate from "./pages/Donate";
 import Media from "./pages/Media";
 import Contact from "./pages/Contact";
@@ -29,11 +29,11 @@ const App = () => (
           <Route path="/policies" element={<Policies />} />
           <Route path="/news" element={<News />} />
           <Route path="/events" element={<Events />} />
-          <Route path="/get-involved" element={<GetInvolved />} />
+          {/* <Route path="/get-involved" element={<GetInvolved />} /> */}
           <Route path="/donate" element={<Donate />} />
           <Route path="/media" element={<Media />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="*" element={<NotFound />} />
+          <Route path="*" element={<Index />} />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>

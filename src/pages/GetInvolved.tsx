@@ -226,7 +226,7 @@ const GetInvolved = () => {
               </p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 animate-fade-in animate-delay-200">
+            {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-8 animate-fade-in animate-delay-200">
               <ContactOption
                 icon={Phone}
                 title="Call Us"
@@ -250,7 +250,7 @@ const GetInvolved = () => {
                 link="#"
                 linkText="Get Directions"
               />
-            </div>
+            </div> */}
 
             <div className="mt-12 text-center animate-fade-in animate-delay-300">
               <p className="text-politician-blue/80 mb-6 max-w-2xl mx-auto">

@@ -9,15 +9,15 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1 animate-fade-in-right">
             <span className="inline-block bg-politician-lightBlue/20 text-politician-blue px-4 py-1 rounded-full text-sm font-medium mb-4">
-              About James Wilson
+              About Telee Brown
             </span>
             <h2 className="section-title">A Leader With a Vision for Our Community</h2>
             <p className="text-politician-blue/80 mb-6">
-              James Wilson has dedicated his life to public service, working tirelessly to improve the lives 
+              Telee Brown has dedicated his life to public service, working tirelessly to improve the lives 
               of citizens through thoughtful policy, community engagement, and forward-thinking leadership.
             </p>
             <p className="text-politician-blue/80 mb-8">
-              With over 15 years of experience in urban planning and community development, James brings 
+              With over 15 years of experience in urban planning and community development, Brown brings 
               practical expertise and innovative thinking to address our city's most pressing challenges.
             </p>
             
@@ -42,7 +42,7 @@ const About = () => {
             <div className="relative z-10 rounded-lg overflow-hidden shadow-xl transform rotate-2 transition-transform duration-500 hover:rotate-0">
               <img 
                 src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80" 
-                alt="James Wilson" 
+                alt="Telee Brown" 
                 className="w-full h-auto object-cover"
               />
             </div>

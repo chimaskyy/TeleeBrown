@@ -109,7 +109,7 @@ const About = () => {
           <div className="container mx-auto px-4 relative z-10">
             <div className="max-w-3xl mx-auto text-center">
               <span className="inline-block bg-white/20 text-white px-4 py-1 rounded-full text-sm font-medium mb-4 animate-fade-in">
-                About James Wilson
+                About Telee Brown
               </span>
               <h1 className="text-4xl md:text-5xl font-bold mb-6 animate-fade-in animate-delay-100">A Leader With a Vision</h1>
               <p className="text-xl text-white/80 mb-8 animate-fade-in animate-delay-200">
@@ -128,13 +128,13 @@ const About = () => {
                 </span>
                 <h2 className="text-3xl md:text-4xl font-bold mb-6 text-politician-blue">The Journey to Public Service</h2>
                 <p className="text-politician-blue/80 mb-6">
-                  James Wilson has dedicated his life to improving the lives of citizens through thoughtful policy, community engagement, and forward-thinking leadership. Born and raised in our city, James understands firsthand the challenges and opportunities that shape our community.
+                  Telee Brown has dedicated his life to improving the lives of citizens through thoughtful policy, community engagement, and forward-thinking leadership. Born and raised in our city, Brown understands firsthand the challenges and opportunities that shape our community.
                 </p>
                 <p className="text-politician-blue/80 mb-6">
-                  With over 15 years of experience in urban planning and community development, James brings practical expertise and innovative thinking to address our city's most pressing challenges. His approach combines data-driven decision making with a deep commitment to listening to the voices of all community members.
+                  With over 15 years of experience in urban planning and community development, Brown brings practical expertise and innovative thinking to address our city's most pressing challenges. His approach combines data-driven decision making with a deep commitment to listening to the voices of all community members.
                 </p>
                 <p className="text-politician-blue/80 mb-6">
-                  Outside of his professional life, James is an avid runner, volunteers at the local food bank, and enjoys spending time with his family exploring the natural beauty of our region.
+                  Outside of his professional life, Brown is an avid runner, volunteers at the local food bank, and enjoys spending time with his family exploring the natural beauty of our region.
                 </p>
                 <div className="flex space-x-4 mt-8">
                   <Link to="/policies" className="btn-primary inline-flex items-center">
@@ -142,7 +142,7 @@ const About = () => {
                     <ArrowRight className="ml-2 h-5 w-5" />
                   </Link>
                   <Link to="/contact" className="btn-secondary inline-flex items-center">
-                    Contact James
+                    Contact Brown
                   </Link>
                 </div>
               </div>
@@ -151,7 +151,7 @@ const About = () => {
                 <div className="relative z-10 rounded-lg overflow-hidden shadow-xl">
                   <img 
                     src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80" 
-                    alt="James Wilson" 
+                    alt="Telee Brown" 
                     className="w-full h-auto object-cover"
                   />
                 </div>
@@ -170,7 +170,7 @@ const About = () => {
               </span>
               <h2 className="text-3xl md:text-4xl font-bold mb-6 text-politician-blue">Timeline of Achievements</h2>
               <p className="text-politician-blue/80">
-                A look at the milestones and contributions that have shaped James Wilson's career in public service and community leadership.
+                A look at the milestones and contributions that have shaped Telee Brown's career in public service and community leadership.
               </p>
             </div>
 
@@ -203,7 +203,7 @@ const About = () => {
               </span>
               <h2 className="text-3xl md:text-4xl font-bold mb-6 text-politician-blue">Moments That Matter</h2>
               <p className="text-politician-blue/80">
-                Explore key moments from James Wilson's career and community involvement through this visual gallery.
+                Explore key moments from Telee Brown's career and community involvement through this visual gallery.
               </p>
             </div>
 
@@ -230,7 +230,7 @@ const About = () => {
                   ></iframe>
                 </div>
                 <h3 className="text-xl font-bold mb-2 text-politician-blue">Campaign Announcement</h3>
-                <p className="text-politician-blue/70">James Wilson announces his vision for the future of our community.</p>
+                <p className="text-politician-blue/70">Telee Brown announces his vision for the future of our community.</p>
               </div>
               
               <div className="glass-card p-4 rounded-lg overflow-hidden card-hover">

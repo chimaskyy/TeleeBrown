@@ -106,16 +106,16 @@ const Events = () => {
       time: "6:00 PM - 8:00 PM",
       location: "City Community Center, 123 Main St",
       category: "Town Hall",
-      description: "Join James Wilson for an open discussion about future development plans in our community. Have your questions answered and voice heard!"
+      description: "Join telee Brown for an open discussion about future development plans in our community. Have your questions answered and voice heard!"
     },
     {
       image: "https://images.unsplash.com/photo-1560439514-4e9645039924?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-      title: "Neighborhood Meet & Greet with James Wilson",
+      title: "Neighborhood Meet & Greet with telee Brown",
       date: "July 22, 2023",
       time: "10:00 AM - 12:00 PM",
       location: "Riverfront Park, 456 Park Ave",
       category: "Rally",
-      description: "A casual outdoor gathering to meet James Wilson and discuss issues that matter to you. Light refreshments will be provided."
+      description: "A casual outdoor gathering to meet telee Brown and discuss issues that matter to you. Light refreshments will be provided."
     },
     {
       image: "https://images.unsplash.com/photo-1544531586-fde5298cdd40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
@@ -137,7 +137,7 @@ const Events = () => {
     },
     {
       image: "https://images.unsplash.com/photo-1543269865-cbf427effbad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-      title: "Evening Fundraiser Dinner with James Wilson",
+      title: "Evening Fundraiser Dinner with telee Brown",
       date: "August 12, 2023",
       time: "6:30 PM - 9:30 PM",
       location: "Grand Hotel Ballroom, 555 Luxury Ave",
@@ -174,7 +174,7 @@ const Events = () => {
               </span>
               <h1 className="text-4xl md:text-5xl font-bold mb-6 animate-fade-in animate-delay-100">Events Calendar</h1>
               <p className="text-xl text-white/80 mb-8 animate-fade-in animate-delay-200">
-                Connect with James Wilson and our campaign team at these upcoming community events.
+                Connect with telee Brown and our campaign team at these upcoming community events.
               </p>
               <div className="flex flex-col sm:flex-row justify-center gap-4 animate-fade-in animate-delay-300">
                 <Link to="#calendar" className="btn-white inline-flex items-center justify-center">

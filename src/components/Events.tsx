@@ -59,7 +59,7 @@ const Events = () => {
     },
     {
       image: "https://images.unsplash.com/photo-1560439514-4e9645039924?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
-      title: "Neighborhood Meet & Greet with James Wilson",
+      title: "Neighborhood Meet & Greet with Telee Brown",
       date: "July 22, 2023",
       time: "10:00 AM - 12:00 PM",
       location: "Riverfront Park, 456 Park Ave"
@@ -76,7 +76,7 @@ const Events = () => {
             </span>
             <h2 className="section-title">Upcoming Events</h2>
             <p className="text-politician-blue/80">
-              Connect with James Wilson and the campaign team at these upcoming community events.
+              Connect with Telee Brown and the campaign team at these upcoming community events.
             </p>
           </div>
           <Link to="/events" className="btn-primary inline-flex items-center animate-fade-in">
